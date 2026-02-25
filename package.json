@@ -1,7 +1,7 @@
 {
-    "name": "@vinzeph/baileys",
+    "name": "@putzz-rebel/baileys",
     "version": "2.0",
-    "description": "WhatsApp API Modification By VinZephyrine",
+    "description": "WhatsApp API Modification By PutxzVoid",
     "keywords": [
         "whatsapp",
         "baileys",
@@ -9,11 +9,11 @@
         "whatsapp-chat",
         "whatsapp-group",
         "botwa",
-        "z4phdev"
+        "putzdev"
     ],
-    "homepage": "https://github.com/vinzeph/baileys",
+    "homepage": "https://github.com/putzz-rebel/baileys",
     "repository": {
-        "url": "https://github.com/vinzeph/baileys"
+        "url": "https://github.com/putzz-rebel/baileys"
     },
     "license": "MIT",
     "author": "",
